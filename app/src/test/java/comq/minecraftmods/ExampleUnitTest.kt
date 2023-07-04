@@ -1,4 +1,4 @@
-package com.example.minecraftmods
+package comq.minecraftmods
 
 import org.junit.Test
 
